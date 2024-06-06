@@ -1,7 +1,7 @@
 # Computer Vision Techniques Using  Classified Systems 
 Utilizing  fundamental techniques to detect moving objects in a background subtraction. 
 For this implementation, I installed OpenCV and NumPy. 
-The mask was used to identify moving objects. Detection was most useful to locate the objects. An algorithm will not be accurate, especially in environments with rapid changes. Therefore, objects detecting objects were difficult. A dataset with images of the three object types (cars, bicycles, pedestrians) was used to annotate.
+These systems were most useful for identifying and locating objects. Ideally, an algorithm will not be accurate, especially in environments with rapid changes. Therefore, detection was difficult. A dataset with images of the three object types (cars, bicycles, pedestrians) was used to annotate.
 ## Deployment
 To deploy this project run
 ```python 3.x version 
